@@ -100,7 +100,6 @@ export default function Home() {
           </a>
         </footer>
       </div> */}
-      <h1> husniddin kot kalla </h1>
     </>
   );
 }
